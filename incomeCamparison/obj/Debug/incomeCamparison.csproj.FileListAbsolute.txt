@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\incomeCamparison\bin\Debug\incomeCamparison.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\incomeCamparison\bin\Debug\incomeCamparison.exe
+C:\Users\15095\Documents\GitHub\csharp-little\incomeCamparison\bin\Debug\incomeCamparison.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\incomeCamparison\obj\Debug\incomeCamparison.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\incomeCamparison\obj\Debug\incomeCamparison.exe
+C:\Users\15095\Documents\GitHub\csharp-little\incomeCamparison\obj\Debug\incomeCamparison.pdb

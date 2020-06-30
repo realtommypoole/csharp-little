@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\MathApp\bin\Debug\MathApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\MathApp\bin\Debug\MathApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\MathApp\obj\Debug\MathApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\MathApp\obj\Debug\MathApp.pdb
