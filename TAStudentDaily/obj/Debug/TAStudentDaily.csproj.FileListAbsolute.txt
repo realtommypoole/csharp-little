@@ -1,0 +1,7 @@
+C:\Users\15095\source\repos\TAStudentDaily\obj\Debug\TAStudentDaily.csprojAssemblyReference.cache
+C:\Users\15095\source\repos\TAStudentDaily\obj\Debug\TAStudentDaily.csproj.CoreCompileInputs.cache
+C:\Users\15095\source\repos\TAStudentDaily\bin\Debug\TAStudentDaily.exe.config
+C:\Users\15095\source\repos\TAStudentDaily\bin\Debug\TAStudentDaily.exe
+C:\Users\15095\source\repos\TAStudentDaily\bin\Debug\TAStudentDaily.pdb
+C:\Users\15095\source\repos\TAStudentDaily\obj\Debug\TAStudentDaily.exe
+C:\Users\15095\source\repos\TAStudentDaily\obj\Debug\TAStudentDaily.pdb

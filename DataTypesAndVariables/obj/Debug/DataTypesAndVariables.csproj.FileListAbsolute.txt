@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.exe
+C:\Users\15095\Documents\GitHub\csharp-little\DataTypesAndVariables\bin\Debug\DataTypesAndVariables.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.exe
+C:\Users\15095\Documents\GitHub\csharp-little\DataTypesAndVariables\obj\Debug\DataTypesAndVariables.pdb
