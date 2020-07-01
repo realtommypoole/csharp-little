@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\PackageShippingApp\bin\Debug\PackageShippingApp.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\PackageShippingApp\bin\Debug\PackageShippingApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\PackageShippingApp\bin\Debug\PackageShippingApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\PackageShippingApp\obj\Debug\PackageShippingApp.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\PackageShippingApp\obj\Debug\PackageShippingApp.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\PackageShippingApp\obj\Debug\PackageShippingApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\PackageShippingApp\obj\Debug\PackageShippingApp.pdb
