@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\DoWhileLoops\obj\Debug\DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\DoWhileLoops\bin\Debug\DoWhileLoops.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\DoWhileLoops\bin\Debug\DoWhileLoops.exe
+C:\Users\15095\Documents\GitHub\csharp-little\DoWhileLoops\bin\Debug\DoWhileLoops.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\DoWhileLoops\obj\Debug\DoWhileLoops.exe
+C:\Users\15095\Documents\GitHub\csharp-little\DoWhileLoops\obj\Debug\DoWhileLoops.pdb

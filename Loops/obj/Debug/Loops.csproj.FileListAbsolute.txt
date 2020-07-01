@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\Loops\bin\Debug\Loops.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\Loops\bin\Debug\Loops.exe
+C:\Users\15095\Documents\GitHub\csharp-little\Loops\bin\Debug\Loops.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\Loops\obj\Debug\Loops.exe
+C:\Users\15095\Documents\GitHub\csharp-little\Loops\obj\Debug\Loops.pdb
