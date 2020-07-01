@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\stringApp\bin\Debug\stringApp.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\stringApp\bin\Debug\stringApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\stringApp\bin\Debug\stringApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\stringApp\obj\Debug\stringApp.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\stringApp\obj\Debug\stringApp.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\stringApp\obj\Debug\stringApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\stringApp\obj\Debug\stringApp.pdb
