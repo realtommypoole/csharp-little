@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\ArrayListApp\bin\Debug\ArrayListApp.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\ArrayListApp\bin\Debug\ArrayListApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ArrayListApp\bin\Debug\ArrayListApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\ArrayListApp\obj\Debug\ArrayListApp.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\ArrayListApp\obj\Debug\ArrayListApp.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\ArrayListApp\obj\Debug\ArrayListApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ArrayListApp\obj\Debug\ArrayListApp.pdb

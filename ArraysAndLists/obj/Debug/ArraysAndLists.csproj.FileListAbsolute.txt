@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
