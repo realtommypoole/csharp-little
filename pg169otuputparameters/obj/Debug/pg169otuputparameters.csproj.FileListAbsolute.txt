@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg169otuputparameters\bin\Debug\pg169otuputparameters.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg169otuputparameters\bin\Debug\pg169otuputparameters.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg169otuputparameters\bin\Debug\pg169otuputparameters.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg169otuputparameters\obj\Debug\pg169otuputparameters.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg169otuputparameters\obj\Debug\pg169otuputparameters.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg169otuputparameters\obj\Debug\pg169otuputparameters.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg169otuputparameters\obj\Debug\pg169otuputparameters.csprojAssemblyReference.cache
