@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg166VoidInteger\bin\Debug\pg166VoidInteger.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg166VoidInteger\bin\Debug\pg166VoidInteger.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg166VoidInteger\bin\Debug\pg166VoidInteger.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg166VoidInteger\obj\Debug\pg166VoidInteger.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg166VoidInteger\obj\Debug\pg166VoidInteger.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg166VoidInteger\obj\Debug\pg166VoidInteger.pdb
