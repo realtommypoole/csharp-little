@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\MoreClass\obj\Debug\MoreClass.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\MoreClass\obj\Debug\MoreClass.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\MoreClass\bin\Debug\MoreClass.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\MoreClass\bin\Debug\MoreClass.exe
+C:\Users\15095\Documents\GitHub\csharp-little\MoreClass\bin\Debug\MoreClass.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\MoreClass\obj\Debug\MoreClass.exe
+C:\Users\15095\Documents\GitHub\csharp-little\MoreClass\obj\Debug\MoreClass.pdb
