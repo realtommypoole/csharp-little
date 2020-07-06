@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace pg182interface
 {
-    interface IQuittable
-    {
-
-        void Quit(Employee employee)
-        {
-            Console.WriteLine("My name is" + employee + "I quit.");
-        }
-    }
+    //interface IQuittable
+    //{
+    //
+    //    void Quit(Employee employee)
+    //    {
+    //        Console.WriteLine("My name is" + employee + "I quit.");
+    //    }
+    //}
 }

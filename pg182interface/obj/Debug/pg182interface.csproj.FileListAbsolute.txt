@@ -1,2 +1,7 @@
 C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\obj\Debug\pg182interface.csprojAssemblyReference.cache
 C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\obj\Debug\pg182interface.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\bin\Debug\pg182interface.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\bin\Debug\pg182interface.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\bin\Debug\pg182interface.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\obj\Debug\pg182interface.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\obj\Debug\pg182interface.pdb

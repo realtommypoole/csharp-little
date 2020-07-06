@@ -43,10 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
+    <Compile Include="..\pg187\Employee.cs">
+      <Link>Employee.cs</Link>
+    </Compile>
     <Compile Include="IQuittable.cs" />
-    <Compile Include="Person.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="..\pg187\Person.cs">
+      <Link>Person.cs</Link>
+    </Compile>
+    <Compile Include="..\pg187\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
