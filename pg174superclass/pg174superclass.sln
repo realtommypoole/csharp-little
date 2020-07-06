@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg174superclass", "pg174superclass.csproj", "{53B31E0B-EA0D-4378-A8A7-8FAF59DFB20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B31E0B-EA0D-4378-A8A7-8FAF59DFB20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B31E0B-EA0D-4378-A8A7-8FAF59DFB20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B31E0B-EA0D-4378-A8A7-8FAF59DFB20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B31E0B-EA0D-4378-A8A7-8FAF59DFB20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB8A4913-2D71-4292-BFA3-8D38ACD337B6}
+	EndGlobalSection
+EndGlobal

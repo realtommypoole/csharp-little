@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg174superclass\obj\Debug\pg174superclass.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg174superclass\bin\Debug\pg174superclass.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg174superclass\bin\Debug\pg174superclass.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg174superclass\bin\Debug\pg174superclass.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg174superclass\obj\Debug\pg174superclass.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg174superclass\obj\Debug\pg174superclass.pdb

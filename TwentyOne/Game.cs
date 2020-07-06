@@ -12,6 +12,12 @@ namespace TwentyOne
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers(); 
+        public void ListPlayers()
+        {
+            foreach (string player in Players)
+            {
+                Console.WriteLine(player);
+            }
+        }
     }
 }
