@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\DivideList\bin\Debug\DivideList.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\DivideList\bin\Debug\DivideList.exe
+C:\Users\15095\Documents\GitHub\csharp-little\DivideList\bin\Debug\DivideList.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\DivideList\obj\Debug\DivideList.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\DivideList\obj\Debug\DivideList.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\DivideList\obj\Debug\DivideList.exe
+C:\Users\15095\Documents\GitHub\csharp-little\DivideList\obj\Debug\DivideList.pdb
