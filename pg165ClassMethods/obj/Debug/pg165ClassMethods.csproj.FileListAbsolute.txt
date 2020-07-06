@@ -1,0 +1,6 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg165ClassMethods\bin\Debug\pg165ClassMethods.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg165ClassMethods\bin\Debug\pg165ClassMethods.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg165ClassMethods\bin\Debug\pg165ClassMethods.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg165ClassMethods\obj\Debug\pg165ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg165ClassMethods\obj\Debug\pg165ClassMethods.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg165ClassMethods\obj\Debug\pg165ClassMethods.pdb
