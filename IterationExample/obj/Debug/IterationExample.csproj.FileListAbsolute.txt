@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\IterationExample\bin\Debug\IterationExample.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\IterationExample\bin\Debug\IterationExample.exe
+C:\Users\15095\Documents\GitHub\csharp-little\IterationExample\bin\Debug\IterationExample.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\IterationExample\obj\Debug\IterationExample.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\IterationExample\obj\Debug\IterationExample.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\IterationExample\obj\Debug\IterationExample.exe
+C:\Users\15095\Documents\GitHub\csharp-little\IterationExample\obj\Debug\IterationExample.pdb

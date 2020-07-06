@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\ElevenPartApp\obj\Debug\ElevenPartApp.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\ElevenPartApp\bin\Debug\ElevenPartApp.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\ElevenPartApp\bin\Debug\ElevenPartApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ElevenPartApp\bin\Debug\ElevenPartApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\ElevenPartApp\obj\Debug\ElevenPartApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ElevenPartApp\obj\Debug\ElevenPartApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\ElevenPartApp\obj\Debug\ElevenPartApp.csprojAssemblyReference.cache
