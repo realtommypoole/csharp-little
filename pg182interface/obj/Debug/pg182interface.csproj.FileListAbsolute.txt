@@ -1,0 +1,2 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\obj\Debug\pg182interface.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg182interface\obj\Debug\pg182interface.csproj.CoreCompileInputs.cache
