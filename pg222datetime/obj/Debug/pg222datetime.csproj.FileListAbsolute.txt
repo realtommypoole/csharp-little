@@ -1,0 +1,7 @@
+C:\Users\15095\source\repos\pg222datetime\bin\Debug\pg222datetime.exe.config
+C:\Users\15095\source\repos\pg222datetime\bin\Debug\pg222datetime.exe
+C:\Users\15095\source\repos\pg222datetime\bin\Debug\pg222datetime.pdb
+C:\Users\15095\source\repos\pg222datetime\obj\Debug\pg222datetime.csprojAssemblyReference.cache
+C:\Users\15095\source\repos\pg222datetime\obj\Debug\pg222datetime.csproj.CoreCompileInputs.cache
+C:\Users\15095\source\repos\pg222datetime\obj\Debug\pg222datetime.exe
+C:\Users\15095\source\repos\pg222datetime\obj\Debug\pg222datetime.pdb
