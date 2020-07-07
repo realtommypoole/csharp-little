@@ -1,0 +1,6 @@
+C:\Users\15095\source\repos\pg219logging\bin\Debug\pg219logging.exe.config
+C:\Users\15095\source\repos\pg219logging\bin\Debug\pg219logging.exe
+C:\Users\15095\source\repos\pg219logging\bin\Debug\pg219logging.pdb
+C:\Users\15095\source\repos\pg219logging\obj\Debug\pg219logging.csproj.CoreCompileInputs.cache
+C:\Users\15095\source\repos\pg219logging\obj\Debug\pg219logging.exe
+C:\Users\15095\source\repos\pg219logging\obj\Debug\pg219logging.pdb
