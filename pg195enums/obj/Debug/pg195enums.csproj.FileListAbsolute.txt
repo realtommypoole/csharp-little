@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg195enums\obj\Debug\pg195enums.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg195enums\obj\Debug\pg195enums.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg195enums\bin\Debug\pg195enums.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg195enums\bin\Debug\pg195enums.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg195enums\bin\Debug\pg195enums.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg195enums\obj\Debug\pg195enums.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg195enums\obj\Debug\pg195enums.pdb
