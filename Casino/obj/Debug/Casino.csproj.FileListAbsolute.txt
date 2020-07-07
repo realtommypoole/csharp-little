@@ -8,4 +8,3 @@ C:\Users\15095\Documents\GitHub\csharp-little\Casino\bin\Debug\Casino1.pdb
 C:\Users\15095\Documents\GitHub\csharp-little\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\15095\Documents\GitHub\csharp-little\Casino\obj\Debug\Casino1.dll
 C:\Users\15095\Documents\GitHub\csharp-little\Casino\obj\Debug\Casino1.pdb
-C:\Users\15095\Documents\GitHub\csharp-little\Casino\obj\Debug\Casino.csprojAssemblyReference.cache

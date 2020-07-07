@@ -19,6 +19,7 @@ namespace Casino
             Balance = beginningBalance;
             Name = name;
         }
+        
         private List<Card> _hand = new List<Card>();
         public List<Card> Hand { get { return _hand; } set { _hand = value; } }
         public int Balance { get; set; }
