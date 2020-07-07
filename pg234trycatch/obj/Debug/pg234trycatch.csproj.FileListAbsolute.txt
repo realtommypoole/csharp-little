@@ -1,0 +1,7 @@
+C:\Users\15095\source\repos\pg234trycatch\obj\Debug\pg234trycatch.csproj.CoreCompileInputs.cache
+C:\Users\15095\source\repos\pg234trycatch\bin\Debug\pg234trycatch.exe.config
+C:\Users\15095\source\repos\pg234trycatch\bin\Debug\pg234trycatch.exe
+C:\Users\15095\source\repos\pg234trycatch\bin\Debug\pg234trycatch.pdb
+C:\Users\15095\source\repos\pg234trycatch\obj\Debug\pg234trycatch.exe
+C:\Users\15095\source\repos\pg234trycatch\obj\Debug\pg234trycatch.pdb
+C:\Users\15095\source\repos\pg234trycatch\obj\Debug\pg234trycatch.csprojAssemblyReference.cache

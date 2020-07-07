@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Casino1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -33,6 +34,10 @@ namespace Casino.TwentyOne
                     Console.WriteLine("Place your bet!");
                     validAnswer = int.TryParse(Console.ReadLine(), out bet);
                     if (!validAnswer) Console.WriteLine("Please enter digits only. No decimals.");
+                }
+                if (bet < 0)
+                {
+                    throw new FraudExcpetion();
                 }
                 bool successfullyBet = player.Bet(bet); 
                 if (!successfullyBet)

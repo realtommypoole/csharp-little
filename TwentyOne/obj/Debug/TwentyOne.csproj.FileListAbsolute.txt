@@ -7,3 +7,4 @@ C:\Users\15095\Documents\GitHub\csharp-little\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\15095\Documents\GitHub\csharp-little\TwentyOne\obj\Debug\TwentyOne.pdb
 C:\Users\15095\Documents\GitHub\csharp-little\TwentyOne\bin\Debug\Casino1.pdb
 C:\Users\15095\Documents\GitHub\csharp-little\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\15095\Documents\GitHub\csharp-little\TwentyOne\bin\Debug\Casino1.dll
