@@ -1,0 +1,7 @@
+C:\Users\15095\source\repos\pg230GUID\bin\Debug\pg230GUID.exe.config
+C:\Users\15095\source\repos\pg230GUID\bin\Debug\pg230GUID.exe
+C:\Users\15095\source\repos\pg230GUID\bin\Debug\pg230GUID.pdb
+C:\Users\15095\source\repos\pg230GUID\obj\Debug\pg230GUID.csprojAssemblyReference.cache
+C:\Users\15095\source\repos\pg230GUID\obj\Debug\pg230GUID.csproj.CoreCompileInputs.cache
+C:\Users\15095\source\repos\pg230GUID\obj\Debug\pg230GUID.exe
+C:\Users\15095\source\repos\pg230GUID\obj\Debug\pg230GUID.pdb

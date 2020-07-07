@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame: Game, IWalkAway
     {
