@@ -1,0 +1,7 @@
+C:\Users\15095\source\repos\pg203lambda\bin\Debug\pg203lambda.exe.config
+C:\Users\15095\source\repos\pg203lambda\bin\Debug\pg203lambda.exe
+C:\Users\15095\source\repos\pg203lambda\bin\Debug\pg203lambda.pdb
+C:\Users\15095\source\repos\pg203lambda\obj\Debug\pg203lambda.csprojAssemblyReference.cache
+C:\Users\15095\source\repos\pg203lambda\obj\Debug\pg203lambda.csproj.CoreCompileInputs.cache
+C:\Users\15095\source\repos\pg203lambda\obj\Debug\pg203lambda.exe
+C:\Users\15095\source\repos\pg203lambda\obj\Debug\pg203lambda.pdb
