@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg200struct\bin\Debug\pg200struct.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg200struct\bin\Debug\pg200struct.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg200struct\bin\Debug\pg200struct.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg200struct\obj\Debug\pg200struct.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg200struct\obj\Debug\pg200struct.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg200struct\obj\Debug\pg200struct.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg200struct\obj\Debug\pg200struct.pdb
