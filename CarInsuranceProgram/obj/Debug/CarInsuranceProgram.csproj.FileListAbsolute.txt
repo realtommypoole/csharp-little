@@ -1,7 +1,0 @@
-C:\Users\15095\Documents\GitHub\csharp-little\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.exe.config
-C:\Users\15095\Documents\GitHub\csharp-little\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.exe
-C:\Users\15095\Documents\GitHub\csharp-little\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.pdb
-C:\Users\15095\Documents\GitHub\csharp-little\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.csprojAssemblyReference.cache
-C:\Users\15095\Documents\GitHub\csharp-little\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.csproj.CoreCompileInputs.cache
-C:\Users\15095\Documents\GitHub\csharp-little\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.exe
-C:\Users\15095\Documents\GitHub\csharp-little\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.pdb
