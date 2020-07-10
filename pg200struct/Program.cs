@@ -11,7 +11,7 @@ namespace pg200struct
         static void Main(string[] args)
         {
             Number MyAmount = new Number();
-            MyAmount.Amount = 45.43;
+            MyAmount.Amount = 45.43m;
 
             Console.WriteLine(MyAmount.Amount);
             Console.ReadLine();

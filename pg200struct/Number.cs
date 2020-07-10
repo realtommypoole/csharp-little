@@ -8,7 +8,7 @@ namespace pg200struct
 {
     public struct Number
     {
-        public double Amount { get; set; }
+        public decimal Amount { get; set; }
 
     }
 }
