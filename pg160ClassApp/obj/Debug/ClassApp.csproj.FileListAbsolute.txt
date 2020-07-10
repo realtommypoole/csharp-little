@@ -1,0 +1,14 @@
+C:\Users\15095\Documents\GitHub\csharp-little\ClassApp\obj\Debug\ClassApp.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\ClassApp\obj\Debug\ClassApp.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\ClassApp\bin\Debug\ClassApp.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\ClassApp\bin\Debug\ClassApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ClassApp\bin\Debug\ClassApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\ClassApp\obj\Debug\ClassApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\ClassApp\obj\Debug\ClassApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg160ClassApp\bin\Debug\ClassApp.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg160ClassApp\bin\Debug\ClassApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg160ClassApp\bin\Debug\ClassApp.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg160ClassApp\obj\Debug\ClassApp.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg160ClassApp\obj\Debug\ClassApp.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg160ClassApp\obj\Debug\ClassApp.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg160ClassApp\obj\Debug\ClassApp.pdb

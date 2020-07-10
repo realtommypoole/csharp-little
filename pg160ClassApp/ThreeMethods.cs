@@ -10,21 +10,20 @@ namespace ClassApp
 {
     public class MyNumber
     {
-        public void MyAdder()
+        public int MyAdder(int x)
         {
-            Console.WriteLine(Num + 3);
+            return (x + 3);
         }
 
-        public void MySubber()
+        public int MySubber(int x)
         { 
-            Console.WriteLine(Num - 3);
+            return(x - 3);
         }
         
-        public void MyMulti()
+        public int MyMulti(int x)
         {
-            Console.WriteLine(Num * 3);
+            return(x * 3);
         }
 
-        public int Num { get; set; }
     }
 }

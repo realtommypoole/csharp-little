@@ -13,14 +13,15 @@ namespace ClassApp
         {
 
             Console.WriteLine("Which number do you want to do math on? Type: (2, 4, or 6):");
-            int userNum = Convert.ToInt32(Console.ReadLine());
+            int u = Convert.ToInt32(Console.ReadLine());
+            var myNumber = new MyNumber();
 
-            MyNumber numOne = new MyNumber();
-            numOne.Num = userNum;
+            MyNumber z = new MyNumber();
 
-            numOne.MyAdder();
-            numOne.MySubber();
-            numOne.MyMulti();
+            int s = z.MyAdder(u);
+            int a= z.MySubber(s);
+            int d=z.MyMulti(a);
+            Console.WriteLine(d);
             Console.ReadLine();
 
         }
