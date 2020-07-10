@@ -34,15 +34,15 @@ namespace pg203lambda
             };
 
             ////Adding to list the foreach way.//
-            //foreach (Employee emp in employees)
-            //{
-            //    if (emp.EmFirName == "Joe");
-            //        {
-            //        List<Employee> employeeJoe = new List<Employee>();
-            //        employeeJoe.Add(emp);
-            //        Console.WriteLine(emp.EmFirName + " " + emp.EmLasName);
-            //    }
-            //}
+            List<Employee> employeeJoe = new List<Employee>();
+            foreach (Employee emp in employees)
+            {
+                if (emp.EmFirName == "Joe")
+                {
+                    employeeJoe.Add(emp);
+                    Console.WriteLine(emp.EmFirName + " " + emp.EmLasName);
+                }
+            }
 
             ////Adding to list the lambda way.//
             //List<Employee> employeeJoe1 = employees.Where(x => x.EmFirName == "Joe").ToList();
@@ -52,11 +52,11 @@ namespace pg203lambda
             //}
 
             //Adding all employees with ID number greater than 5. 
-            List<Employee> empId = employees.Where(x => x.EID > 5).ToList();
-            foreach (Employee emp in empId)
-            {
-                Console.WriteLine(emp.EmLasName + " " + emp.EID);
-            }
+            //List<Employee> empId = employees.Where(x => x.EID > 5).ToList();
+            //foreach (Employee emp in empId)
+            //{
+            //    Console.WriteLine(emp.EmLasName + " " + emp.EID);
+            //}
 
             Console.ReadLine();
         }
