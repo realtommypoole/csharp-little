@@ -12,7 +12,7 @@ namespace ClassApp
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Which number do you want to do math on? Type: (2, 4, or 6):");
+            Console.WriteLine("Which number do you want to do math on?");
             int u = Convert.ToInt32(Console.ReadLine());
             var myNumber = new MyNumber();
 
@@ -21,6 +21,8 @@ namespace ClassApp
             int s = z.MyAdder(u);
             int a= z.MySubber(s);
             int d=z.MyMulti(a);
+            Console.WriteLine(s);
+            Console.WriteLine(a);
             Console.WriteLine(d);
             Console.ReadLine();
 
