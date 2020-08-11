@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\designer\bin\Debug\designer.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\designer\bin\Debug\designer.exe
+C:\Users\15095\Documents\GitHub\csharp-little\designer\bin\Debug\designer.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\designer\obj\Debug\designer.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\designer\obj\Debug\designer.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\designer\obj\Debug\designer.exe
+C:\Users\15095\Documents\GitHub\csharp-little\designer\obj\Debug\designer.pdb
