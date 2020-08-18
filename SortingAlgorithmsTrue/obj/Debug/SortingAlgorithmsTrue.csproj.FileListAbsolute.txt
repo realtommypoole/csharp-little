@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\SortingAlgorithmsTrue\obj\Debug\SortingAlgorithmsTrue.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\SortingAlgorithmsTrue\obj\Debug\SortingAlgorithmsTrue.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\SortingAlgorithmsTrue\bin\Debug\SortingAlgorithmsTrue.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\SortingAlgorithmsTrue\bin\Debug\SortingAlgorithmsTrue.exe
+C:\Users\15095\Documents\GitHub\csharp-little\SortingAlgorithmsTrue\bin\Debug\SortingAlgorithmsTrue.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\SortingAlgorithmsTrue\obj\Debug\SortingAlgorithmsTrue.exe
+C:\Users\15095\Documents\GitHub\csharp-little\SortingAlgorithmsTrue\obj\Debug\SortingAlgorithmsTrue.pdb

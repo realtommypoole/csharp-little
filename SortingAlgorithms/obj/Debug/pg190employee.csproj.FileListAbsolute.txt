@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\pg190employee\obj\Debug\pg190employee.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg190employee\obj\Debug\pg190employee.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\pg190employee\bin\Debug\pg190employee.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\pg190employee\bin\Debug\pg190employee.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg190employee\bin\Debug\pg190employee.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\pg190employee\obj\Debug\pg190employee.exe
+C:\Users\15095\Documents\GitHub\csharp-little\pg190employee\obj\Debug\pg190employee.pdb

@@ -1,0 +1,7 @@
+C:\Users\15095\Documents\GitHub\csharp-little\InterviewQuestions\bin\Debug\InterviewQuestions.exe.config
+C:\Users\15095\Documents\GitHub\csharp-little\InterviewQuestions\bin\Debug\InterviewQuestions.exe
+C:\Users\15095\Documents\GitHub\csharp-little\InterviewQuestions\bin\Debug\InterviewQuestions.pdb
+C:\Users\15095\Documents\GitHub\csharp-little\InterviewQuestions\obj\Debug\InterviewQuestions.csprojAssemblyReference.cache
+C:\Users\15095\Documents\GitHub\csharp-little\InterviewQuestions\obj\Debug\InterviewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\15095\Documents\GitHub\csharp-little\InterviewQuestions\obj\Debug\InterviewQuestions.exe
+C:\Users\15095\Documents\GitHub\csharp-little\InterviewQuestions\obj\Debug\InterviewQuestions.pdb
